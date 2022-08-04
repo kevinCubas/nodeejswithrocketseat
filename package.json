@@ -1,0 +1,16 @@
+{
+  "name": "nodeejs",
+  "version": "1.0.0",
+  "description": "learning node with EJS",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Cubas",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
